@@ -1,1 +1,4 @@
-# eat_boiled_egg2
+# eat_boiled_egg2  
+---
+- 銀行でお金を下ろした
+- スーパーで卵を買う
